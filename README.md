@@ -25,14 +25,14 @@ The system helps staff manage walk-in customers, schedule appointments, update s
   - Git & GitHub
     
 - ### Waitlist Management
-Staff can:
+  Staff can:
   - Add customers to a live waitlist
   - Update service status
   - Remove completed entries
   - Track queue progress
 
 ### Appointment Scheduling
-The system allows:
+  The system allows:
   - Appointment booking
   - Viewing upcoming appointments
   - Updating appointment status
