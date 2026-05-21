@@ -46,3 +46,6 @@ The dashboard provides:
   - Live database-driven statistics
 
 ## Project Structure
+
+
+© 2025 Kusum Katwal
