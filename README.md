@@ -24,7 +24,7 @@ The system helps staff manage walk-in customers, schedule appointments, update s
   - VS Code
   - Git & GitHub
     
-- ### Waitlist Management
+### Waitlist Management
   Staff can:
   - Add customers to a live waitlist
   - Update service status
