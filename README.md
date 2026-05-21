@@ -19,28 +19,30 @@ The system helps staff manage walk-in customers, schedule appointments, update s
   - SQLite
   - HTML
   - CSS
+    
 ### Development Tools
-- VS Code
-- Git & GitHub
+  - VS Code
+  - Git & GitHub
+    
 - ### Waitlist Management
 Staff can:
-- Add customers to a live waitlist
-- Update service status
-- Remove completed entries
-- Track queue progress
+  - Add customers to a live waitlist
+  - Update service status
+  - Remove completed entries
+  - Track queue progress
 
 ### Appointment Scheduling
 The system allows:
-- Appointment booking
-- Viewing upcoming appointments
-- Updating appointment status
-- Managing scheduling records
+  - Appointment booking
+  - Viewing upcoming appointments
+  - Updating appointment status
+  - Managing scheduling records
 
 ### Dashboard
 The dashboard provides:
-- Waitlist summary
-- Appointment overview
-- Navigation between modules
-- Live database-driven statistics
+  - Waitlist summary
+  - Appointment overview
+  - Navigation between modules
+  - Live database-driven statistics
 
 ## Project Structure
